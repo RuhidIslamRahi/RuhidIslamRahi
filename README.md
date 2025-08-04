@@ -2,35 +2,25 @@
 
 🎓 BSc student in Data Science @ UIU | 🐍 Python Enthusiast | 🤖 Future AI/ML Engineer  
 
----
-  
-### 🧠 What I’m Learning
-
+#### 🧠 What I’m Learning
 - Python programming (intermediate to advanced)
 - Data analysis using NumPy & Pandas
 - Object-Oriented Programming (OOP)
 - Data visualization (Matplotlib, Seaborn)
 - Git & GitHub for version control
-
----
-
-### 🛠️ Tools & Technologies
-
+  
+#### 🛠️ Tools & Technologies
 - Languages: Python, SQL (basic)
 - Tools: Jupyter Notebook, VS Code, Git, GitHub
 - Platforms: Google Colab, Anaconda
 
----
-
-### 💬 Current Goals
+#### 💬 Current Goals
 
 - Build a portfolio of real-world Python & data projects  
 - Land data-related internships in Bangladesh and globally  
 - Engage with mentors and communities for career growth
 
----
-
-### 😄 Pronouns
+##### 😄 Pronouns
 He/Him
 
 ## 🌐 Socials:
