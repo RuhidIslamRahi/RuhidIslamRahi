@@ -6,7 +6,7 @@
 - Python programming (intermediate to advanced)
 - Data analysis using NumPy & Pandas
 - Object-Oriented Programming (OOP)
-- Data visualization (Matplotlib, Seaborn)
+- Data visualization (Matplotlib)
 - Git & GitHub for version control
   
 #### 🛠️ Tools & Technologies
