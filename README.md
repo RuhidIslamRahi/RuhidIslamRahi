@@ -13,7 +13,7 @@
 - Object-Oriented Programming (OOP)
 - Data visualization (Matplotlib)
 - Git & GitHub for version control
-- 
+  
 ### 📊 Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
