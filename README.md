@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Ruhid Rahi</h1>
----
+
 🎓 BSc student in Data Science @ UIU | 🐍 Python Enthusiast | 🤖 Future AI/ML Engineer  
 
 #### 🧠 What I’m Learning
