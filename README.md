@@ -1,5 +1,10 @@
-## 👋 Hi, I'm Ruhid Rahi
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahammadnafiz&color=blue&style=flat-square" alt="Visitor Count"/>
+</p>
 
+<h1 align="center">Ruhid Rahi</h1>
+---
 🎓 BSc student in Data Science @ UIU | 🐍 Python Enthusiast | 🤖 Future AI/ML Engineer  
 
 #### 🧠 What I’m Learning
@@ -8,7 +13,19 @@
 - Object-Oriented Programming (OOP)
 - Data visualization (Matplotlib)
 - Git & GitHub for version control
-  
+- 
+### 📊 Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) 
+
+### 📈 Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-darkblue?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+
 #### 🛠️ Tools & Technologies
 - Languages: Python, SQL (basic)
 - Tools: Jupyter Notebook, VS Code, Git, GitHub
@@ -39,7 +56,6 @@ He/Him
 ---
 [![](https://visitcount.itsvg.in/api?id=RuhidIslamRahi&icon=0&color=10)](https://visitcount.itsvg.in)
 
----
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruhidislam-rahi) 
