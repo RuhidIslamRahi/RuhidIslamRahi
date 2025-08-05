@@ -6,7 +6,8 @@
 <h1 align="center">Ruhid Rahi</h1>
 
 🎓 BSc student in Data Science @ UIU | 🐍 Python Enthusiast | 🤖 Future AI/ML Engineer  
-  
+
+## 🛠 Tech Stack
 ### 📊 Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
