@@ -6,13 +6,6 @@
 <h1 align="center">Ruhid Rahi</h1>
 
 🎓 BSc student in Data Science @ UIU | 🐍 Python Enthusiast | 🤖 Future AI/ML Engineer  
-
-#### 🧠 What I’m Learning
-- Python programming (intermediate to advanced)
-- Data analysis using NumPy & Pandas
-- Object-Oriented Programming (OOP)
-- Data visualization (Matplotlib)
-- Git & GitHub for version control
   
 ### 📊 Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
